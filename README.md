@@ -1,12 +1,10 @@
 # Hi, I'm Tomer Eliyahu
  
-## I'm a Fullstack developer,
+## I'm a Full-Stack Developer Enthusiast
 
 🏋️‍♂️ I enjoy spending time at the gym and pushing my physical limits.
 
 📊 I'm passionate about stocks and cryptocurrencies, always exploring new opportunities in the financial world.
-
-💮 I'm developing Docker containers as part of my ongoing projects.
 
 🏡 I love contributing to home automation projects, bringing technology closer to daily life.
 
