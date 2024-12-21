@@ -44,4 +44,4 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=Selenium)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomere123321)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomere123321&show_icons=true)
