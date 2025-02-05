@@ -1,6 +1,6 @@
 # Hi, I'm Tomer Eliyahu
  
-## I'm a Full-Stack Developer Enthusiast
+## I'm a FFull-Stack Development Enthusiast
 
 🏋️‍♂️ I enjoy spending time at the gym and pushing my physical limits.
 
